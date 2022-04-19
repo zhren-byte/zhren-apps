@@ -1,12 +1,12 @@
 {
-  "name": "electron-quick-start",
+  "name": "Zhren Apps",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A Electron application",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/zhren-byte/zhren-apps",
   "keywords": [
     "Electron",
     "quick",
@@ -15,7 +15,7 @@
     "demo"
   ],
   "author": "GitHub",
-  "license": "CC0-1.0",
+  "license": "MIT",
   "devDependencies": {
     "electron": "^18.0.3"
   }
